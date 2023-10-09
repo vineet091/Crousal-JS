@@ -5,7 +5,8 @@ function CreateCrousal() {
   var activeIndex = 0;
   var Images = [
     {
-      src: "https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293__340.jpg",
+      src:
+        "https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510__340.jpg",
       name: "Image-1"
     },
     {
